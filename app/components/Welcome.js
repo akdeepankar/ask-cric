@@ -1,7 +1,7 @@
 'use client';
 
 import dynamic from 'next/dynamic';
-const PlayerChart = dynamic(() => import('./Playerchart'), { ssr: false });
+const PlayerChart = dynamic(() => import('./PlayerChart'), { ssr: false });
 
 export default function Welcome() {
   return (
