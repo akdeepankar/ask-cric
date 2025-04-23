@@ -2,7 +2,6 @@
 
 
 /* Tailwind CSS imports */
-@tailwind utilities;
 
 :root {
   --background: #ffffff;

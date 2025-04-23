@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="min-h-screen flex flex-col font-[family-name:var(--font-geist-sans)]">
       <div className="flex flex-1">
-        <Welcome />
+        <Welcome/>
         <Chat />
       </div>
     </div>
